@@ -28,10 +28,14 @@ Formula:
 
 <img width="517" height="124" alt="image" src="https://github.com/user-attachments/assets/216bfaf3-3ef4-4d12-b273-68da8dd770e6" />
 # Circuit Diagram and Model Graph:
+![cd 2](https://github.com/user-attachments/assets/7f1123bf-51ef-4b02-9c86-723cdcfde6c8)
+![mg 2](https://github.com/user-attachments/assets/ea3e21e5-a7cb-4197-a04d-70a42f2fd92a)
 
 
 
 # Tabular Column & Calculation:
+![T 1](https://github.com/user-attachments/assets/0d0182af-8f2f-4037-b6f8-665b7332771c)
+![T2](https://github.com/user-attachments/assets/1d29946b-9c8d-48c5-a016-ed21e6db3ae0)
 
 
 # Graph:
