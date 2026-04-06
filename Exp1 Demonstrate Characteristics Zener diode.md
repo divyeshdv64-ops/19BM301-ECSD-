@@ -32,6 +32,7 @@ FORMULA USED:
 
 Reverse Resistance RR = ΔVR / ΔIR (Ω)
 # CIRCUIT DIAGRAM:
+![CD Exp 1](https://github.com/user-attachments/assets/abf99e7f-f3b4-4598-833f-041e1bcf5614)
 
 
 # TABULAR COLUMN & CALCULATION:
