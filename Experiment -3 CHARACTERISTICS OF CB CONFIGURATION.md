@@ -5,6 +5,8 @@ To plot the input and output characteristics of the transistor in CB mode, to de
 <img width="568" height="285" alt="image" src="https://github.com/user-attachments/assets/aaa92ea3-734a-4f1b-bed2-feeb8b92699b" />
 
 # Circuit Diagram & Model Graph:
+![CD3](https://github.com/user-attachments/assets/b9abf7d9-732c-4872-be2f-3c9fad903a73)
+![MG3](https://github.com/user-attachments/assets/1fcc7747-72c8-4cd1-a54b-26170acc5ea6)
 
 
 # Procedure:
@@ -30,6 +32,7 @@ Formula:
 
 
 # Result:
+![R3](https://github.com/user-attachments/assets/ca48dad2-d2d2-4620-8680-401f5d7e485f)
 
 
 
