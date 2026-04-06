@@ -26,7 +26,8 @@ above procedure is repeated for different IB constant values.
    
 Formula:
 
-<img width="517" height="124" alt="image" src="https://github.com/user-attachments/assets/216bfaf3-3ef4-4d12-b273-68da8dd770e6" />
+![WhatsApp Image 2026-04-06 at 9 24 00 PM](https://github.com/user-attachments/assets/6047b614-5d6c-49dc-8c81-80ad2bc9fcf8)
+
 
 # Circuit Diagram and Model Graph:
 ![cd 2](https://github.com/user-attachments/assets/7f1123bf-51ef-4b02-9c86-723cdcfde6c8)
@@ -40,9 +41,12 @@ Formula:
 
 
 # Graph:
+![G 2](https://github.com/user-attachments/assets/f810cd7a-1a57-4e08-a590-86aa2ef71e8d)
+![G 2,1](https://github.com/user-attachments/assets/eb41009c-2843-4cc8-a45c-8ee8c2f4b2ee)
 
 
 # Result:
+![R2](https://github.com/user-attachments/assets/ea47017d-918a-4f51-b9f3-a18e10a9962b)
 
 
 
