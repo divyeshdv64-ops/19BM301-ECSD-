@@ -27,6 +27,7 @@ above procedure is repeated for different IB constant values.
 Formula:
 
 <img width="517" height="124" alt="image" src="https://github.com/user-attachments/assets/216bfaf3-3ef4-4d12-b273-68da8dd770e6" />
+
 # Circuit Diagram and Model Graph:
 ![cd 2](https://github.com/user-attachments/assets/7f1123bf-51ef-4b02-9c86-723cdcfde6c8)
 ![mg 2](https://github.com/user-attachments/assets/ea3e21e5-a7cb-4197-a04d-70a42f2fd92a)
