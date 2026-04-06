@@ -40,7 +40,7 @@ Reverse Resistance RR = ΔVR / ΔIR (Ω)
 ![cal exp 1](https://github.com/user-attachments/assets/851e58f7-ce64-428d-82b0-4cb2660046df)
 
 # MODEL GRAPH:
-![graph exp 1](https://github.com/user-attachments/assets/69391dbd-cc39-4739-a59e-1431e621e70c)
+![mg 1](https://github.com/user-attachments/assets/57401b9b-5c6c-46f6-9959-30a6f2d0abb4)
 
 # GRAPH:
 ![graph exp 1](https://github.com/user-attachments/assets/5c25cc8b-a5fa-4a56-95e6-d3784ae692de)
